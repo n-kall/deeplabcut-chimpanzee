@@ -76,7 +76,7 @@ Then, once the frames have been extracted, running the following command will br
 
 Confirm that the labels are correct with:
 
-    dlc.correct_labels(project)
+    dlc.check_labels(project)
 
 
 ### Train neural network
