@@ -26,6 +26,11 @@ In order to use DeepLabCut, you'll need a Python3 environment with specific vers
 
 Once you've installed miniconda, you can use the environment file provided in this git repo.
 
+e.g. for Ubuntu 18.04
+
+    conda env create -f dlc-chimp-ubuntu1804.yaml
+
+
 The other piece of software you'll need is Spyder3 (only needed on the desktop, not on the server).
 
 
